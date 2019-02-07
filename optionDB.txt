@@ -1,0 +1,6 @@
+*background: AntiqueWhite1
+*Text*background: #454545
+*Button*foreground: gray55
+*Button*relief: raised
+*Button*width: 3
+
